@@ -1,5 +1,3 @@
-# HoD-userscript
-Faction utilities
 # HoD Faction Utility Script
 
 ## Overview
