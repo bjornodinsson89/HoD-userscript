@@ -6,8 +6,8 @@
 // @author       BjornOdinsson89
 // @match        https://www.torn.com/*
 // @match        https://www2.torn.com/*
-// @updateURL    https://raw.githubusercontent.com/bjornodinsson89/HoD-userscript/root.meta.js
-// @downloadURL  https://raw.githubusercontent.com/bjornodinsson89/HoD-userscript/HoD.user.js
+// @updateURL    https://raw.githubusercontent.com/bjornodinsson89/HoD-userscript/root/meta.js
+// @downloadURL  https://raw.githubusercontent.com/bjornodinsson89/HoD-userscript/root/HoD.user.js
 // @require      https://raw.githubusercontent.com/bjornodinsson89/HoD-userscript/modules/db.js
 // @require      https://raw.githubusercontent.com/bjornodinsson89/HoD-userscript/modules/utils.js
 // @require      https://raw.githubusercontent.com/bjornodinsson89/HoD-userscript/modules/ajaxModule.js
