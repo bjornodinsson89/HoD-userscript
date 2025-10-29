@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         HoD Tools
 // @namespace    http://tampermonkey.net/
-// @version      1.3
+// @version      1.0
 // @description  Faction Tools For House of Dragonborn
 // @author       BjornOdinsson89
 // @match        https://www.torn.com/*
