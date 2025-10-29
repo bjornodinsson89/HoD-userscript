@@ -6,8 +6,8 @@
 // @author       BjornOdinsson89
 // @match        https://www.torn.com/*
 // @match        https://www2.torn.com/*
-// @updateURL    https://github.com/Bjornodinsson89/main/HoD-userscript/HoD/HoD-userscript.js
-// @downloadURL  https://github.com/Bjornodinsson89/main/HoD-userscript/HoD/HoD-userscript.js
+// @updateURL    https://github.com/bjornodinsson89/HoD-userscript/blob/main/HoD/HoD-userscript.js
+// @downloadURL  https://github.com/bjornodinsson89/HoD-userscript/blob/main/HoD/HoD-userscript.js
 // @grant        GM_addStyle
 // @grant        GM_notification
 // @grant        GM_xmlhttpRequest
